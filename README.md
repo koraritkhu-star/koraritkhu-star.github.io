@@ -1,1 +1,1 @@
-View my web page, go to [https://korarit-khu-star.github.io](https://korarit-khu-star.github.io).
+View my web page, go to [https://koraritkhu-star.github.io](https://koraritkhu-star.github.io).
